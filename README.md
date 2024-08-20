@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Paula Catalán Santana
-- 👀 I’m interested in Business Analysis and Data Analysis 
+- 👀 I’m interested in Data Analysis and Project Management
 - 🌱 I’m currently studying for a degree in Computer Science and Software Engineering 
-- 💞️ I’m looking to collaborate on innovative projects 
-- 📫 How to reach me connect with me on LinkedIn 
+- 💞️ I’m looking to collaborate on innovative projects
+- ⭐ My interests lie mostly in Big Data and AI
+- 📫 How to reach me: connect with me on LinkedIn 
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: I was born in Spain, studied in an English school and moved to Ireland at 18, so I have experienced many different cultures growing up.
