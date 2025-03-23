@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paula Catalán Santana
-- 👀 I’m interested in Data Analysis and Project Management
+- 👀 I’m interested in Data Analysis and Project/Product Management
 - 🌱 I’m currently studying for a degree in Computer Science and Software Engineering 
 - 💞️ I’m looking to collaborate on innovative projects
 - ⭐ My interests lie mostly in Big Data and AI
